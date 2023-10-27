@@ -1,0 +1,78 @@
+.be-container3__training {
+    display: flex;
+    margin: 5px;
+    margin-left: 0px;
+
+&--card {
+    width: 155px;
+    height: 150px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+  
+     
+    &--img {
+        width: 30px;
+        height: auto;
+        
+    }
+
+    &--header {
+        color:rgb(3, 3, 88);
+        font-size: large;
+        height: 0px;
+        width: 120px;
+    }
+
+    &--absorbtion {
+        background-color: dodgerblue;
+     
+     &--img {
+        margin-left: 40px;
+        margin-top: 20px;
+     }
+     &--header {
+        color: white;
+        text-align: center;
+     }   
+
+     &--pookkutty {
+        width: 100px;
+        margin-top: -90px;
+        margin-right: 15px;
+     }
+    }
+
+}
+}
+
+@media screen  and (min-width: 50px) and (max-width:768px) {
+    .be-container3 {
+        height: auto;
+    }
+    .be-container3__training {
+        display: flex;
+        flex-direction: column;
+        margin: 50px;
+        padding: 20px;
+        align-items: center;
+        height: auto;
+     
+    .be-container3__training--card--absorbtion--pookkutty {
+        width: 50px;
+       
+    }
+    .be-container3__training--card {
+        height: auto;
+    }
+}
+   .be-container9 {
+    height: auto;
+    margin-top: -70px;
+   }
+   .be-container10 {
+    height: auto;
+    margin-top: -70px;
+   }
+
+}

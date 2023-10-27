@@ -1,0 +1,19 @@
+//base
+@import './base/base';
+
+
+//atom 
+@import './atom/button';
+
+//molecule
+@import './molecule/training';
+@import './molecule/great';
+@import './molecule/emp';
+
+//organism
+@import './organism/header';
+@import './organism/training-card';
+@import './organism/great-card';
+@import './organism/emp-card';
+@import './organism/intake';
+@import './organism/demo';

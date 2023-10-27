@@ -1,0 +1,80 @@
+.be-container4__block {
+    width: 62%;
+    height: 270px;
+    background-image: url(Images/con4-bg2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    margin-left: 0px;
+    margin-top: 2px;
+    
+    
+
+    h2 {
+        padding: 30px;
+        height: 0px;
+        color: white;
+        width: 620px;
+        font-size: large;
+    }
+
+    p {
+        height: 0px;
+        padding: 0px;
+        margin: 15px;
+        font-size: small;
+    }
+    &--sec {
+        width: 40%;
+        height: 195px;
+        display: inline-block;
+    }
+   
+}
+.be-container4__block--sec2 {
+    height: 335px;
+    width: 35%;
+    background-image: url(Images/great-person.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 6px;
+  
+    img {
+      padding: 45px;
+      margin-left: 244px;
+      margin-top: 100px;
+      width: 70px;
+      box-sizing: content-box;
+    }
+  }
+  .be-container4__card {
+    display: flex;
+  }
+    .be-container4__card__img {
+    width: 20px;
+    padding: 20px;
+    box-sizing: content-box;
+}
+
+  .be-container4__card2 {
+
+    background-color: dodgerblue;
+    padding: 1px;
+    width: 620px;
+    margin-top: -80px;
+    color: white;
+  }
+
+@media screen and (min-width: 50px) and (max-width: 768px) {
+    .be-container4 {
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    
+   &__block {
+        height: auto;
+
+   
+}}}

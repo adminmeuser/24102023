@@ -1,0 +1,32 @@
+.be-container5__demo {
+    display: flex;
+    width: 700px;
+    height: 300px;
+    padding: 40px;
+    
+
+
+    &--card {
+        width: 50%;
+        height: 200px;
+        margin: 20px;
+    }
+    &__form {
+        width: 300px; height: 30px;
+
+    &--new {
+        width: 642px; 
+        height: 100px; 
+        margin-top: -200px; 
+        margin-left: 60px;
+    }
+    }
+
+    &--head {
+        color: rgb(3, 3, 88);
+        width: 200px;
+    }
+    &--para {
+        text-align: justify;
+    }
+}

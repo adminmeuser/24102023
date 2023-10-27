@@ -1,0 +1,27 @@
+.be-container3__training--card {
+    width: 155px;
+    height: 150px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: -30px;
+  
+     
+    &--img {
+        width: 30px;
+        height: auto;
+        
+    }
+
+    &--header {
+        color:rgb(3, 3, 88);
+        
+        height: 0px;
+        margin-top: 25px;
+    }
+    &--para {
+        width: 140px;
+    margin-top: 20px;
+    }
+
+}

@@ -1,0 +1,620 @@
+.be-container1 {
+  width: 1000px;
+  height: 100px;
+  margin: 0px auto; }
+
+.be-container2 {
+  width: 1000px;
+  height: 250px;
+  background-image: url(Images/our-vision.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+  .be-container2__content {
+    width: 500px;
+    height: 0px;
+    color: white;
+    margin: 0px;
+    padding: 30px; }
+
+.be-container3 {
+  width: 1000px;
+  height: 420px;
+  background-color: white;
+  margin-top: 100px; }
+  .be-container3 h5 {
+    color: #030358;
+    width: 400px;
+    padding: 20px;
+    height: 0px;
+    font-size: small; }
+  .be-container3 h2 {
+    color: #030358;
+    padding: 20px;
+    width: 385px;
+    margin-top: -25px;
+    font-size: x-large; }
+
+.be-container4 {
+  width: 1000px;
+  height: 320px;
+  background-image: url(Images/con4-bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  display: flex; }
+
+.be-container5 {
+  width: 1000px;
+  height: 500px;
+  background-color: white; }
+
+.be-container6 {
+  width: 1000px;
+  height: 600px;
+  margin: 0px auto;
+  background-color: #f5f2f2;
+  background-image: url(Images/benifits-bg-img.png);
+  background-repeat: no-repeat;
+  background-size: contain; }
+  .be-container6 h5 {
+    color: white;
+    width: 400px;
+    padding: 20px;
+    height: 0px;
+    margin-top: -30px; }
+  .be-container6 .be-container6__para {
+    color: #fff;
+    padding: 20px;
+    width: 270px;
+    margin-top: -25px;
+    height: 0px; }
+
+.be-container6__section {
+  display: flex;
+  margin: 70px;
+  margin-left: 80px;
+  margin-top: 185px;
+  background-color: white;
+  height: 290px; }
+  .be-container6__section--paragraph {
+    color: #000;
+    height: 100px;
+    width: 140px;
+    margin-top: 20px; }
+  .be-container6__section__new-card {
+    margin: 30px; }
+  .be-container6__section__new-header {
+    margin: 30px;
+    margin-left: -4px;
+    width: 159px;
+    font-size: smaller; }
+
+.be-container7 {
+  width: 1000px;
+  height: 370px;
+  background-color: #f5f2f2; }
+  .be-container7__head {
+    color: #030358;
+    padding: 25px; }
+  .be-container7__block {
+    height: 325px;
+    padding: 8px;
+    margin-top: -135px; }
+  .be-container7__card {
+    background-image: url(Images/circle.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    width: 360px;
+    display: inline-block;
+    margin: 2px;
+    padding: 150px; }
+
+.be-container8 {
+  width: 1000px;
+  height: 800px;
+  background-color: #003350; }
+  .be-container8__para {
+    padding: 5px;
+    color: lightgray; }
+  .be-container8__head {
+    padding: 5px;
+    color: white;
+    margin-top: -25px; }
+  .be-container8__mid-para {
+    text-align: center;
+    color: gray;
+    margin-left: 100px;
+    margin-top: -50px; }
+
+.be-container9 {
+  width: 1000px;
+  height: 400px;
+  background-color: gray;
+  margin-top: -30px; }
+
+.be-container10 {
+  width: 1000px;
+  height: 200px;
+  background-image: url(Images/bx-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  margin-top: -20px; }
+
+.be-container11 {
+  width: 1000px;
+  height: 200px;
+  margin-top: 60px;
+  background-color: #01012b; }
+
+.be-container1-header__button {
+  display: inline-block;
+  margin: -6px;
+  padding: 3px;
+  margin-left: -15px;
+  position: relative;
+  background-color: #070746;
+  border: 1px;
+  color: white;
+  height: 30px;
+  cursor: pointer;
+  transition: all 0.4s; }
+
+.be-container1-header__button:hover {
+  background-color: green; }
+
+.be-container3__training--card {
+  width: 155px;
+  height: 150px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-top: -30px; }
+  .be-container3__training--card--img {
+    width: 30px;
+    height: auto; }
+  .be-container3__training--card--header {
+    color: #030358;
+    height: 0px;
+    margin-top: 25px; }
+  .be-container3__training--card--para {
+    width: 140px;
+    margin-top: 20px; }
+
+.be-container4__card {
+  display: flex; }
+
+.be-container4__card__img {
+  width: 20px;
+  padding: 20px;
+  box-sizing: content-box; }
+
+.be-container5__item {
+  width: 280px;
+  height: 260px;
+  background-color: aliceblue;
+  margin: 70px; }
+  .be-container5__item img {
+    width: 60px;
+    padding: 2px;
+    margin: 3px;
+    margin-top: -20px; }
+  .be-container5__item h5 {
+    color: #030358;
+    padding: 20px;
+    margin: 0px; }
+  .be-container5__item a {
+    text-decoration: none;
+    color: blue; }
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 20px;
+  background-color: white;
+  font-size: small; }
+
+.icon {
+  margin-left: 10px;
+  cursor: pointer; }
+
+.be-container1-header__mainsection {
+  width: 900px;
+  height: 65px; }
+  .be-container1-header__mainsection--top {
+    width: 900px;
+    height: 50%;
+    background-color: white; }
+  .be-container1-header__mainsection--bottom {
+    width: 900px;
+    height: 50%;
+    background-color: white; }
+    .be-container1-header__mainsection--bottom--logo {
+      width: 100px;
+      padding: 1px; }
+
+.be-container1-header__hamburger {
+  display: none; }
+
+.be-container1-header__hamburger img {
+  width: 15px;
+  height: 15px;
+  cursor: pointer; }
+
+.nav__mainsection--top ul {
+  display: flex;
+  margin-top: -35px;
+  margin-left: 380px;
+  list-style-type: none;
+  width: 510px; }
+
+.nav__mainsection--top li {
+  padding: 0 10px; }
+
+.nav__mainsection--top a {
+  text-decoration: none;
+  color: #333; }
+
+.nav__mainsection--top :hover {
+  color: black; }
+
+.nav__mainsection--bottom ul {
+  display: flex;
+  width: 640px;
+  margin-top: -31px;
+  margin-left: 270px;
+  list-style-type: none; }
+
+.nav__mainsection--bottom li {
+  padding: 0 10px;
+  font-weight: bold; }
+
+.nav__mainsection--bottom a {
+  text-decoration: none;
+  color: darkblue; }
+
+.nav__mainsection--bottom :hover {
+  color: #333; }
+
+@media screen and (min-width: 1000px) and (max-width: 1500px) {
+  .be-container1-header__hamburger {
+    display: none; }
+
+  .be-container1-header__hamburger img {
+    width: 15px;
+    height: 15px;
+    cursor: pointer; }
+
+  .nav__mainsection--top ul {
+    display: flex;
+    margin-top: -35px;
+    margin-left: 380px;
+    list-style-type: none;
+    width: 510px; }
+
+  .nav__mainsection--top li {
+    padding: 0 10px; }
+
+  .nav__mainsection--top a {
+    text-decoration: none;
+    color: #333; }
+
+  .nav__mainsection--top :hover {
+    color: black; }
+
+  .nav__mainsection--bottom ul {
+    display: flex;
+    width: 640px;
+    margin-top: -31px;
+    margin-left: 270px;
+    list-style-type: none; }
+
+  .nav__mainsection--bottom li {
+    padding: 0 10px;
+    font-weight: bold; }
+
+  .nav__mainsection--bottom a {
+    text-decoration: none;
+    color: darkblue; }
+
+  .nav__mainsection--bottom :hover {
+    color: #333; } }
+@media screen and (min-width: 50px) and (max-width: 768px) {
+  .be-container1-header__hamburger {
+    display: block;
+    text-align: right;
+    padding: 10px;
+    margin-top: -40px;
+    width: 870px; }
+
+  nav ul {
+    display: none;
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px; }
+
+  nav li {
+    display: none;
+    margin-left: 20px; } }
+@media screen and (min-width: 769px) and (max-width: 1000px) {
+  .be-container1-header__hamburger {
+    display: none; }
+
+  .be-container1-header__hamburger img {
+    width: 20px;
+    height: 15px;
+    cursor: pointer; }
+
+  .nav__mainsection--top ul {
+    display: flex;
+    margin-top: -30px;
+    margin-left: 380px;
+    list-style-type: none; }
+
+  .nav__mainsection--top li {
+    padding: 0 10px; }
+
+  .nav__mainsection--top a {
+    text-decoration: none;
+    color: #333; }
+
+  .nav__mainsection--top :hover {
+    color: black; }
+
+  .nav__mainsection--bottom ul {
+    display: flex;
+    margin-top: -25px;
+    margin-left: 285px;
+    list-style-type: none; }
+
+  .nav__mainsection--bottom li {
+    padding: 0 10px;
+    font-weight: bold; }
+
+  .nav__mainsection--bottom a {
+    text-decoration: none;
+    color: darkblue; }
+
+  .nav__mainsection--bottom :hover {
+    color: #333; } }
+.be-container3__training {
+  display: flex;
+  margin: 5px;
+  margin-left: 0px; }
+  .be-container3__training--card {
+    width: 155px;
+    height: 150px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column; }
+    .be-container3__training--card--img {
+      width: 30px;
+      height: auto; }
+    .be-container3__training--card--header {
+      color: #030358;
+      font-size: large;
+      height: 0px;
+      width: 120px; }
+    .be-container3__training--card--absorbtion {
+      background-color: dodgerblue; }
+      .be-container3__training--card--absorbtion--img {
+        margin-left: 40px;
+        margin-top: 20px; }
+      .be-container3__training--card--absorbtion--header {
+        color: white;
+        text-align: center; }
+      .be-container3__training--card--absorbtion--pookkutty {
+        width: 100px;
+        margin-top: -90px;
+        margin-right: 15px; }
+
+@media screen and (min-width: 50px) and (max-width: 768px) {
+  .be-container3 {
+    height: auto; }
+
+  .be-container3__training {
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    padding: 20px;
+    align-items: center;
+    height: auto; }
+    .be-container3__training .be-container3__training--card--absorbtion--pookkutty {
+      width: 50px; }
+    .be-container3__training .be-container3__training--card {
+      height: auto; }
+
+  .be-container9 {
+    height: auto;
+    margin-top: -70px; }
+
+  .be-container10 {
+    height: auto;
+    margin-top: -70px; } }
+.be-container4__block {
+  width: 62%;
+  height: 270px;
+  background-image: url(Images/con4-bg2.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px;
+  margin-left: 0px;
+  margin-top: 2px; }
+  .be-container4__block h2 {
+    padding: 30px;
+    height: 0px;
+    color: white;
+    width: 620px;
+    font-size: large; }
+  .be-container4__block p {
+    height: 0px;
+    padding: 0px;
+    margin: 15px;
+    font-size: small; }
+  .be-container4__block--sec {
+    width: 40%;
+    height: 195px;
+    display: inline-block; }
+
+.be-container4__block--sec2 {
+  height: 335px;
+  width: 35%;
+  background-image: url(Images/great-person.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 6px; }
+  .be-container4__block--sec2 img {
+    padding: 45px;
+    margin-left: 244px;
+    margin-top: 100px;
+    width: 70px;
+    box-sizing: content-box; }
+
+.be-container4__card {
+  display: flex; }
+
+.be-container4__card__img {
+  width: 20px;
+  padding: 20px;
+  box-sizing: content-box; }
+
+.be-container4__card2 {
+  background-color: dodgerblue;
+  padding: 1px;
+  width: 620px;
+  margin-top: -80px;
+  color: white; }
+
+@media screen and (min-width: 50px) and (max-width: 768px) {
+  .be-container4 {
+    height: auto;
+    display: flex;
+    flex-direction: column; }
+    .be-container4__block {
+      height: auto; } }
+.be-container5__block {
+  width: 600px;
+  height: 300px;
+  display: flex; }
+
+.be-container5__item {
+  width: 500px;
+  height: 250px;
+  background-color: aliceblue;
+  margin: 5px;
+  margin-left: 230px; }
+  .be-container5__item img {
+    width: 60px;
+    padding: 2px;
+    margin: 3px; }
+  .be-container5__item h5 {
+    color: #030358;
+    padding: 20px;
+    margin: 0px;
+    width: 240px; }
+  .be-container5__item a {
+    text-decoration: none;
+    color: blue; }
+
+.carousel-control-next {
+  margin: -75px; }
+
+.carousel-control-prev {
+  margin: 145px; }
+
+.carousel-control-prev-icon {
+  background-color: black; }
+
+.carousel-control-next-icon {
+  background-color: black; }
+
+@media screen and (min-width: 50px) and (max-width: 768px) {
+  .be-container5__item {
+    width: 925px;
+    height: 240px;
+    margin: 20px; }
+
+  .carousel-control-prev {
+    display: none; } }
+.be-container8__main-sec {
+  display: flex;
+  width: 1000px;
+  height: 700px;
+  padding: 30px;
+  margin: -10; }
+  .be-container8__main-sec--left {
+    width: 40%;
+    height: 627px;
+    background-image: url(Images/intake-person.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; }
+  .be-container8__main-sec--right {
+    width: 60%;
+    height: 90%; }
+    .be-container8__main-sec--right__top {
+      width: 100%;
+      height: 200px;
+      display: flex;
+      flex-direction: column;
+      margin: 4px;
+      background-color: #0558c5; }
+      .be-container8__main-sec--right__top--heading {
+        color: white;
+        padding: 5px;
+        height: 0px;
+        margin: 0px; }
+      .be-container8__main-sec--right__top--para {
+        color: white;
+        padding: 5px;
+        margin-top: 30px; }
+      .be-container8__main-sec--right__top--card {
+        display: flex;
+        width: 100%;
+        height: 80px; }
+        .be-container8__main-sec--right__top--card--item {
+          width: 200px;
+          height: 80px;
+          color: white; }
+    .be-container8__main-sec--right__bottom {
+      display: flex;
+      height: 200px;
+      width: 100%; }
+      .be-container8__main-sec--right__bottom--ba {
+        width: 50%;
+        height: 220px;
+        border: 10px solid;
+        background-color: #003350; }
+
+.be-container5__demo {
+  display: flex;
+  width: 700px;
+  height: 300px;
+  padding: 40px; }
+  .be-container5__demo--card {
+    width: 50%;
+    height: 200px;
+    margin: 20px; }
+  .be-container5__demo__form {
+    width: 300px;
+    height: 30px; }
+    .be-container5__demo__form--new {
+      width: 642px;
+      height: 100px;
+      margin-top: -200px;
+      margin-left: 60px; }
+  .be-container5__demo--head {
+    color: #030358;
+    width: 200px; }
+  .be-container5__demo--para {
+    text-align: justify; }
+
+/*# sourceMappingURL=style.css.map */
